@@ -1,7 +1,56 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+ 
+ }
+ 
+ html{
+   font-size: 62,5%
+   font-family:"DM Sans", "sans-serif";
+   
+ 
+ }
+
+header {
+  
+
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  min-width:320px;
+  height: 334px;
+  text-align: center;
+  background:  #189799;
+
+
+}
+
+h1 {
+
+  font-size: 3rem;
+}
+
+.headerparraph{
+
+  font-size: 28px;
+
+}
+
+
+main {
+  width: 100%;
+  height: auto;
+  background-color: var(--off-white);
+
+  
+
 .logonara {
    
-    height:100px;
-    width: 100px;
+    height:220px;
+    width: 220px;
 
 
 }
