@@ -75,3 +75,14 @@ justify-content: center;
 
 
 }
+
+#footer {
+
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  display:flex;
+
+
+
+}
